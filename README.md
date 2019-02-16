@@ -8,10 +8,10 @@ Captures:
 
 <ul>
 	<li>
-		<a href="https://github.com/robertogarcor/django-blog/blob/master/syspets_images/Captura_00.PNG">Captura00</a>
+		<a href="https://github.com/robertogarcor/spring-boot/blob/master/springBootSoccer/images/SpringSoccer00.PNG">Captura00</a>
 	</li>
 	<li>
-		<a href="https://github.com/robertogarcor/django-blog/blob/master/syspets_images/Captura_01.PNG">Captura01</a>
+		<a href="https://github.com/robertogarcor/spring-boot/blob/master/springBootSoccer/images/SpringSoccer01.PNG">Captura01</a>
 	</li>
 </ul>
 
@@ -34,7 +34,7 @@ Dependencies (see pom.xml):
 
 **Initialize the database, for create database an admin user:** 
 
-Execute script sql --> springsoccer.sql 
+Execute script sql --> <a href="https://github.com/robertogarcor/spring-boot/blob/master/springBootSoccer/src/main/resources/springsoccer.sql">springsoccer.sql</a> 
 
 $ psql -U postgres < springsoccer.sql 
 
