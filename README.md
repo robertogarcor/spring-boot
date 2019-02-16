@@ -1,6 +1,6 @@
 # Applicattions Spring - SpringBoot JAVA
 
-**SpringBootSoccer**
+## SpringBootSoccer
 
 A simple CRUD applicattion Spring/Boot Java - Postgres. This includes Back-end Server, Desktop client a Api Rest. 
 
@@ -15,7 +15,7 @@ Captures:
 	</li>
 </ul>
 
-## Backend 
+### Backend 
 
 **Setup** 
 
